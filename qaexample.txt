@@ -1,0 +1,23 @@
+﻿Theism vs Non-Theism
+1. Do you believe that the world was created 6,000 years ago? Enter Yes or No
+2. Do you consider yourself to be spiritual? Enter Yes or No
+3. Do you believe that it makes any sense to say, “I'm spiritual but not religious?” Enter Yes or No
+4. Do you believe that any religious text should be interpreted literally? Enter Yes or No
+5. Do you believe that we will become a less moral society if we completely abandon religion? Enter Yes or No
+6. Do you believe that it is LOGICAL to believe in an afterlife? Enter Yes or No
+7. Do you believe that it is MORAL to believe in eternal reward during afterlife? Enter Yes or No
+8. Do you believe that is is MORAL to believe in punishment during an afterlife? Enter Yes or No
+9. Do you believe that it is justified to face eternal condemnation for a finite crime? Enter Yes or No
+10. Do you believe in any religious text as an accurate historical account? Enter Yes or No
+11. Do you believe that any religious text serves as a source of morality? Enter Yes or No
+12. Do you wish to continue your family's religious tradition, if it has one? Enter Yes or No
+13. Do you believe that religion has intrinsic value beyond individual identity, family tradition or culture? Enter Yes or No
+
+
+
+
+Results:
+-1 : Non-Theism
+-0.5 : Somewhat Non-Theistic
+0 : Somewhat Theistic
+0.5 : Theistic
